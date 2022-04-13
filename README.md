@@ -6,7 +6,7 @@ Lin, Q., Li, Z., Lafferty, J. & Yildirim, I. (submittedd). Images that are harde
 
 The data used for Study 1 are from a publicly available dataset from the following paper:
 
-Isola, P., Xiao, J., Parikh, D., Torralba, A., Oliva, A. What makes a photograph memorable? IEEE Transactions on Pattern Analysis and Machine Intelligence, 2013.
+Isola, P., Xiao, J., Parikh, D., Torralba, A., & Oliva, A. (2013). What makes a photograph memorable?. IEEE transactions on pattern analysis and machine intelligence, 36(7), 1469-1482.
 
 # Setup
 First, clone this repo
@@ -20,6 +20,8 @@ Then install the required python packages (make sure that you are in the ReconMe
 ```
 pip install requirements.txt
 ```
+
+# Conducting the analysis
 
 We provided a jupyter notebook (./analysis_scripts/Behavioral analysis.ipynb) recreating the results in Figure 4.  The ANOVA analysis reported in Table 1 was performed in R. It can be reproduced by executing the markdown file analysis_scripts/ANOVA.rmd in RStudio.
 
