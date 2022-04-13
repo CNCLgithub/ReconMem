@@ -8,6 +8,18 @@ The data used for Study 1 are from a publicly available dataset from the followi
 
 Isola, P., Xiao, J., Parikh, D., Torralba, A., Oliva, A. What makes a photograph memorable? IEEE Transactions on Pattern Analysis and Machine Intelligence, 2013.
 
-The main analysis script is Behavioral analysis.ipynb. For the ANOVA analysis, we used R and the correponding codes can be found in ANOVA.Rmd
+# Setup
+First, clone this repo
 
+```
+git clone https://github.com/CNCLgithub/ReconMem
+```
+
+Then install the required python packages (make sure that you are in the ReconMem directory)
+
+```
+pip install requirements.txt
+```
+
+We provided a jupyter notebook (./analysis_scripts/Behavioral analysis.ipynb) recreating the results in Figure 4.  The ANOVA analysis reported in Table 1 was performed in R. It can be reproduced by executing the markdown file analysis_scripts/ANOVA.rmd in RStudio.
 
