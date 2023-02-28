@@ -1,10 +1,10 @@
 # ReconMem
 
-This repository contains the data collected for Study 2 and the analyses scripts in the following manuscript:
+This repository contains the data collected for Study 3 and the analyses scripts in the following manuscript:
 
-Lin, Q., Li, Z., Lafferty, J. & Yildirim, I. (submittedd). Images that are harder to reconstruct are more memorable. 
+Lin, Q., Li, Z., Lafferty, J. & Yildirim, I. (submittedd). From seeing to remembering: Images with harder-to-reconstruct representations leave stronger memory traces. 
 
-The data used for Study 1 are from a publicly available dataset from the following paper:
+The data used for Studies 1 and 2 are from a publicly available dataset from the following paper:
 
 Isola, P., Xiao, J., Parikh, D., Torralba, A., & Oliva, A. (2013). What makes a photograph memorable?. IEEE transactions on pattern analysis and machine intelligence, 36(7), 1469-1482.
 
