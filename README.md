@@ -23,5 +23,5 @@ pip install requirements.txt
 
 # Conducting the analysis
 
-We provided a jupyter notebook (./analysis_scripts/Behavioral analysis.ipynb) recreating the results in Figure 4.  The ANOVA analysis reported in Table 1 was performed in R. It can be reproduced by executing the markdown file (./analysis_scripts/ANOVA.rmd) in RStudio.
+We provided a jupyter notebook (./analysis_scripts/Behavioral analysis.ipynb) recreating the results in Figure 5.  The ANOVA analysis reported in Supplementary Table 1 was performed in R. It can be reproduced by executing the markdown file (./analysis_scripts/ANOVA.rmd) in RStudio.
 
