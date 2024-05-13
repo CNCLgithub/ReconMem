@@ -2,7 +2,7 @@
 
 This repository contains the data collected for Study 3 and the analyses scripts in the following manuscript:
 
-Lin, Q., Li, Z., Lafferty, J. & Yildirim, I. (submitted). From seeing to remembering: Images with harder-to-reconstruct representations leave stronger memory traces. 
+Lin, Q., Li, Z., Lafferty, J. & Yildirim, I. (2024). Images with harder-to-reconstruct visual representations leave stronger memory traces. _Nature Human Behaviour_
 
 The data used for Studies 1 and 2 are from a publicly available dataset from the following paper:
 
