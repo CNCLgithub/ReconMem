@@ -8,6 +8,8 @@ The data used for Studies 1 and 2 are from a publicly available dataset from the
 
 Isola, P., Xiao, J., Parikh, D., Torralba, A., & Oliva, A. (2013). What makes a photograph memorable?. IEEE transactions on pattern analysis and machine intelligence, 36(7), 1469-1482.
 
+The ./SPC_public submodule includes scripts for extracting distinctiveness and reconstruction error for the images. See the ./SPC_public/README for detailed explanation. 
+
 # Setup
 First, clone this repo
 
